@@ -6,6 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./entrar.component.css']
 })
 export class EntrarComponent implements OnInit {
+  
 
   constructor() { }
 
